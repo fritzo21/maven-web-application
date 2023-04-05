@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Atech Sulotions Project31 automation. Design by Fritz</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
+<h1 align="center">We are developing and supporting quality Software Solutions to millions of companies globally.
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud computing equipping IT Engineers for best performance.</h1>
 <hr>
